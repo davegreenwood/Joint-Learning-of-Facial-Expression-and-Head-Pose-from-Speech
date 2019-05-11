@@ -23,4 +23,4 @@ A render utility is provided, so the json output can be viewed as a movie.
 
     python render.py scene_a_01_0184_pred.json scene_a_01_0184_pred.mp4
 
-The resulting movie should be muxed with the corresponding wav file.
+The resulting movie will need to be muxed with the corresponding wav file.
